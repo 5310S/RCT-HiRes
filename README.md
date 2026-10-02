@@ -12,11 +12,12 @@ Play the **original RollerCoaster Tycoon (1999)** on modern monitors — from 64
 | Version | Notes |
 |---|---|
 | **RollerCoaster Tycoon Deluxe from GOG.com** | Base game plus both expansion packs. No disc needed. |
+| **RollerCoaster Tycoon: Deluxe from Steam** (English) | Base game plus both expansion packs. No disc needed. |
 | **The original 1999 CD release** (base game) | Needs its CD, or a disc image (`.iso`) that RCT HiRes mounts for you. |
 
 RCT HiRes checks the exact version of your game before it changes anything and politely refuses
-versions it doesn't know yet (the Steam edition, expansion-pack updates of the CD release, Classic,
-other languages). More versions are planned.
+versions it doesn't know yet (expansion-pack updates of the CD release, Classic, other languages).
+More versions are planned.
 
 ## What you get
 
@@ -53,13 +54,15 @@ for 1280 x 1024. RCT HiRes enlarges them, so the game runs cleanly at 4K, super-
 
 **Requirements:** Windows 10 or 11, and your own installed copy of a supported version.
 
-**Updating from 1.0:** just run the new installer; your settings are kept.
+**Updating:** just run the new installer over the old one; your settings are kept.
 
 ## Known limitations
 
 - The CD release still needs its CD or a disc image to start new scenarios. RCT HiRes doesn't bypass
   the game's disc check.
 - The closest in-game zoom is the game's native pixel size. Use **Game size** to make everything bigger.
+- Steam's Play button starts the normal game. Use the **RollerCoaster Tycoon (HiRes)** shortcut for
+  RCT HiRes.
 - With W A S D scrolling on, the arrow keys no longer scroll and the W, A, S and D shortcuts
   (e.g. S = Staff, D = Research) are off.
 
